@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Ciabatta's Revenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and based on a tutorial by Drew Conley.
+This is my first experiment with gamification in ReactJS, and definitely won't be the last!
 
 ## Available Scripts
 
